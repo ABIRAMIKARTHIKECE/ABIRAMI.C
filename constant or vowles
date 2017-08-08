@@ -1,0 +1,11 @@
+#include<stdio.h>
+void main()
+{
+int c;
+printf("enter the charactor");
+scanf("%d",n);
+if((a||e)&(i||u))
+printf("the given charactor is vowel");
+else
+printf("constant):
+}
